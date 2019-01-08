@@ -13,3 +13,11 @@ The main objective of the project was to develop the CRIM: Web-Based Clinicians 
 1. Facilitate reservations for the dental clinicians.
 2. Provide a more secured storage of dental records.
 3. Replace the pen and paper system of dental health information storage.
+
+## Programming Environment
+
+### Front End
+The development of the front end was made possible with the use of web technologies such as JSP, HTML, CSS, JavaScript, AJAX, JQUERY, DataTables and BOOTSTRAP for the design of the front end.
+
+### Back End
+The development of the back end was made possible with the use of Java language and MySQL. The proponent used Java as programming language for developing the system, j2ee and j2se in Eclipse IDE for the back end. MySQL databases are queried using a subset of the standard Structured Query Language (SQL). . Java can be used to create complete applications that may run on a single computer or be distributed among servers and clients in a network. It can also be used to build a small application module or applet for use as part of a webpage. 
