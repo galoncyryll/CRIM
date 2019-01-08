@@ -10,6 +10,6 @@ Since The dentistry students of Centro Escolar University Legazpi Village is sti
 
 ## Project Objectives
 The main objective of the project was to develop the CRIM: Web-Based Clinicians Reservation and Information Management System for the Dentistry Department of CEU Makati.
-⦁	Facilitate reservations for the dental clinicians.
-⦁	Provide a more secured storage of dental records.
-⦁	Replace the pen and paper system of dental health information storage.
+1. Facilitate reservations for the dental clinicians.
+2. Provide a more secured storage of dental records.
+3. Replace the pen and paper system of dental health information storage.
