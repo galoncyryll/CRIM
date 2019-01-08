@@ -9,9 +9,11 @@ The Dentistry Department of CEU Makati offers dental check-ups and procedures to
 
 Since The dentistry students of Centro Escolar University Legazpi Village is still using a manual way of recording their patient’s information and still does not have a more systematic way of handling the patient’s record. The Dentistry department commissioned the developers to create the system for them. The system helps maintain information about patients; This system is secure and only accessible by the user and the administrator. The system will provide a more organized record. The system will also be able to generate reservations for the dental clinicians.
 
-##Significance of the Study
+## Significance of the Study
 This study aimed to provide a more systematic way of providing reservations and storing dental patients information. 
+
 The system will save all the dental patients information in a database for a more secure storage of records. The system can only be accessed by the administrator and user. The system will also provide a report which will be entitled Oral Diagnosis Report. Where all of the treatments and procedures will be present.
+
 This project will also benefit the dental clinicians for they will no longer be using a pen and paper style of recording their patients’ information.
 
 ## Project Objectives
@@ -28,5 +30,15 @@ The development of the front end was made possible with the use of web technolog
 ### Back End
 The development of the back end was made possible with the use of **Java** and **MySQL**. The proponent used Java as programming language for developing the system, **j2ee** and **j2se** in **Eclipse IDE** for the back end. **MySQL** databases are queried using a subset of the standard **Structured Query Language (SQL)**. Java can be used to create complete applications that may run on a single computer or be distributed among servers and clients in a network. It can also be used to build a small application module or applet for use as part of a webpage. 
 
-
-
+## Project Team
+The project team is composed of Project Manager, Systems Analyst/Programmer, and Documenter/QA Staff.
+### Cyryll Joseph O. Galon (Me)
+Systems Analyst/ Programmer
+### Kirk Jason A. Reyes
+Systems Analyst/ Programmer
+### Vincent John C. Roa
+Project Manager
+### Karl Kenzo Bondoc
+Documenter/ QA Staff
+### Daniel Jericho Prochina
+Documenter/ QA Staff
