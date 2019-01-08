@@ -1,5 +1,5 @@
 # CRIM (2016)
-An Undergraduate **Capstone Project** Presented to the Faculty of School of Science and Technology Centro Escolar University
+An Undergraduate **Capstone Project** Presented to the Faculty of School of Science and Technology in Centro Escolar University
 **CRIM** stands for Web-based Clinicians Reservation and Information Management System for the Dentistry Department of CEU Makati
 
 
