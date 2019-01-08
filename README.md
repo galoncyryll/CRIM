@@ -15,7 +15,7 @@ The main objective of the project was to develop the CRIM: Web-Based Clinicians 
 2. Provide a more secured storage of dental records.
 3. Replace the pen and paper system of dental health information storage.
 
-## Programming Environment
+## Tools and Technologies used
 
 ### Front End
 The development of the front end was made possible with the use of web technologies such as JSP, HTML, CSS, JavaScript, AJAX, JQUERY, DataTables and BOOTSTRAP for the design of the front end.
