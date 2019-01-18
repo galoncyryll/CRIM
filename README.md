@@ -9,6 +9,10 @@ The Dentistry Department of CEU Makati offers dental check-ups and procedures to
 
 Since The dentistry students of Centro Escolar University Legazpi Village is still using a manual way of recording their patient’s information and still does not have a more systematic way of handling the patient’s record. The Dentistry department commissioned the developers to create the system for them. The system helps maintain information about patients; This system is secure and only accessible by the user and the administrator. The system will provide a more organized record. The system will also be able to generate reservations for the dental clinicians.
 
+![recordstab](https://user-images.githubusercontent.com/25477186/51364423-ee788780-1a90-11e9-9269-27a11964bfb6.PNG)
+![recordstab2](https://user-images.githubusercontent.com/25477186/51364424-ee788780-1a90-11e9-929a-e4210cb3fac2.PNG)
+![reservationtab](https://user-images.githubusercontent.com/25477186/51364426-ee788780-1a90-11e9-9e38-f75ad166d3cd.PNG)
+
 ## Significance of the Study
 This study aimed to provide a more systematic way of providing reservations and storing dental patients information. 
 
